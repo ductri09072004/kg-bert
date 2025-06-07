@@ -1,0 +1,32 @@
+Hồ_Chí_Minh	Hồ Chí Minh là vị lãnh tụ vĩ đại của dân tộc Việt Nam
+Nguyễn_Du	Nguyễn Du là đại thi hào dân tộc Việt Nam
+Trần_Hưng_Đạo	Trần Hưng Đạo là vị tướng tài ba của nhà Trần
+Lê_Lợi	Lê Lợi là vị vua sáng lập nhà Hậu Lê
+Quang_Trung	Quang Trung là vị vua của nhà Tây Sơn
+Hà_Nội	Hà Nội là thủ đô của Việt Nam
+Huế	Huế là thành phố di sản văn hóa thế giới
+Sài_Gòn	Sài Gòn là thành phố lớn nhất Việt Nam
+Đại_học_Quốc_gia_Hà_Nội	Đại học Quốc gia Hà Nội là trường đại học hàng đầu Việt Nam
+Đại_học_Bách_Khoa_Hà_Nội	Đại học Bách Khoa Hà Nội là trường đại học kỹ thuật hàng đầu
+Bệnh_viện_Bạch_Mai	Bệnh viện Bạch Mai là bệnh viện lớn nhất miền Bắc
+Bệnh_viện_Chợ_Rẫy	Bệnh viện Chợ Rẫy là bệnh viện lớn nhất miền Nam
+Việt_Nam	Việt Nam là quốc gia ở Đông Nam Á
+Thanh_Hóa	Thanh Hóa là tỉnh thuộc vùng Bắc Trung Bộ
+Bình_Định	Bình Định là tỉnh thuộc vùng Duyên hải Nam Trung Bộ
+nhà_thơ	Nhà thơ là người sáng tác thơ
+tướng_quân	Tướng quân là người chỉ huy quân đội
+vua	Vua là người đứng đầu một vương quốc
+Không_tôn_giáo	Không theo tôn giáo nào
+Phật_giáo	Phật giáo là một tôn giáo lớn ở châu Á
+Thiên_Chúa_giáo	Thiên Chúa giáo là một tôn giáo lớn trên thế giới
+Hồi_giáo	Hồi giáo là một tôn giáo lớn trên thế giới
+Đảng_Cộng_sản_Việt_Nam	Đảng Cộng sản Việt Nam là đảng cầm quyền
+Đảng_Dân_chủ	Đảng Dân chủ là một đảng phái chính trị
+Triều_Nguyễn	Triều Nguyễn là triều đại phong kiến cuối cùng
+Nhà_Trần	Nhà Trần là một triều đại phong kiến
+Nhà_Hậu_Lê	Nhà Hậu Lê là một triều đại phong kiến
+Nhà_Tây_Sơn	Nhà Tây Sơn là một triều đại phong kiến
+Nhà_Nguyễn	Nhà Nguyễn là triều đại phong kiến cuối cùng
+nơi_sinh	Nơi sinh là địa điểm một người được sinh ra
+quốc_tịch	Quốc tịch là mối quan hệ pháp lý giữa một người và một quốc gia
+nghề_nghiệp	Nghề nghiệp là công việc mà một người làm để kiếm sống 

@@ -1,0 +1,13 @@
+nơi_sinh
+quốc_tịch
+tôn_giáo
+giới_tính
+con_cái
+cha_mẹ
+tổ_chức
+vợ_chồng
+nơi_mất
+nguyên_nhân_mất
+dân_tộc
+địa_điểm
+nghề_nghiệp 

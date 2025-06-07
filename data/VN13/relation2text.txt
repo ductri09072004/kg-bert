@@ -1,0 +1,13 @@
+nơi_sinh	nơi sinh
+quốc_tịch	quốc tịch
+tôn_giáo	tôn giáo
+giới_tính	giới tính
+con_cái	con cái
+cha_mẹ	cha mẹ
+tổ_chức	tổ chức
+vợ_chồng	vợ chồng
+nơi_mất	nơi mất
+nguyên_nhân_mất	nguyên nhân mất
+dân_tộc	dân tộc
+địa_điểm	địa điểm
+nghề_nghiệp	nghề nghiệp 
